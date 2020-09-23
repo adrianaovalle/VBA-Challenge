@@ -1,5 +1,4 @@
 # VBA-Challenge
-Homework Submission
 
 The MainScript has the code plus the first challenge (summary of Greatest % Increase, Greatest % Decrease, Greatest Total Volume)
 for each year. It also contains a sub-routine to reset all results in a sheet.
