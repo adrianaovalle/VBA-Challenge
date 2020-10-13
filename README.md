@@ -8,3 +8,5 @@ The Stocks_Challenge Script runs the calculations for all sheets in the dataset.
 All files can be found at: https://drive.google.com/drive/folders/1Ih3go0ieaZTjecudvfQJm78Gvt1Fv8R_
 
 Languages: Excel VBA
+
+![Figure1](VBAStocks/2014_results.png)
