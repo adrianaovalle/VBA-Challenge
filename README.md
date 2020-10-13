@@ -1,4 +1,4 @@
-# VBA-Challenge
+# VBA Scripting
 VBA scripting is used to analyze real stock market data. 
 
 ## Introduction
