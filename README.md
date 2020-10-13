@@ -9,4 +9,4 @@ All files can be found at: https://drive.google.com/drive/folders/1Ih3go0ieaZTje
 
 Languages: Excel VBA
 
-![Figure1](VBAStocks/2014_results.png)
+![Figure1](VBAStocks/2014_Results.png)
