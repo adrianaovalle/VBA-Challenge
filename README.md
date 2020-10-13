@@ -4,7 +4,8 @@ VBA scripting is used to analyze real stock market data.
 ## Introduction
 VBA scripting is used to analyze real stock market data. 
 The script willloop through all the stocks for one year and output the following information:
-*The ticker symbol.
+
+* The ticker symbol.
 
   * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 
